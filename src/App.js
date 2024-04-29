@@ -10,15 +10,18 @@ export default function App() {
         <Weather />
       </div>
       <footer>
-        <small>
-          <a
-            href="https://github.com/Rolanda-Davids-97/weather-react"
-            target="-blank"
-          >
-            Open-source code
-          </a>
-          , by Rolanda Davids{" "}
-        </small>
+        <p>
+          <small>
+            {" "}
+            This project was coded by Rolanda Davids,
+            <a
+              href="https://github.com/Rolanda-Davids-97/weather-react"
+              target="-blank"
+            >
+              Open-source code on GitHub
+            </a>
+          </small>
+        </p>
       </footer>
     </div>
   );
