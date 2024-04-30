@@ -21,12 +21,19 @@
 .weather h6 {
   font-size: 18px;
   font-weight: 300;
-  margin: 1px 0 0 0;
+  margin: 5px 0 0 0;
 }
 
 .weather ul {
   margin: 30px 0 10px 0;
   padding: 0;
+}
+.weather canvas {
+  height: 85px;
+  width: 70px;
+  margin-right: 10px;
+  padding-top: 15px;
+  display: inline-block;
 }
 .weather .temperature {
   font-weight: bold;
