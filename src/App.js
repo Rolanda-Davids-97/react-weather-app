@@ -14,7 +14,7 @@ export default function App() {
             {" "}
             This project was coded by Rolanda Davids,
             <a
-              href="https://github.com/Rolanda-Davids-97/weather-react"
+              href="https://github.com/Rolanda-Davids-97/react-weather-app"
               target="-blank"
             >
               Open-source code on GitHub
