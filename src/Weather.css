@@ -29,11 +29,7 @@
   padding: 0;
 }
 .weather canvas {
-  height: 85px;
-  width: 70px;
-  margin-right: 10px;
-  padding-top: 15px;
-  display: inline-block;
+  margin: 10px auto;
 }
 .weather .temperature {
   font-weight: bold;
